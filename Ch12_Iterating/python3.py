@@ -1,0 +1,7 @@
+text = input()
+# Write your code below
+count = 0
+for i in range(len(text)):
+    if(text[i].lower() == 'p'):
+        count += 1
+print(count)
