@@ -9,4 +9,13 @@ Chapter that has completed:
 5. Decision Making 
 6. Basic I/O
 7. Bill Split Calculator
+8. Loops
+9. Functions
+10. FizzBuzz with a Twist
+11. Lists Basics
+12. Iterating Over Sequences
+13. Lists Advanced
+14. Daily Expense Tracker
+15. Final Challenges
+
 
