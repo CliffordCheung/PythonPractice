@@ -2,6 +2,7 @@
 This is the practice answer for the python code from coddy
 Chapter that has completed:
 
+Section - 1
 1. Introduction
 2. Variables
 3. Operations Part 1
@@ -17,5 +18,11 @@ Chapter that has completed:
 13. Lists Advanced
 14. Daily Expense Tracker
 15. Final Challenges
+
+Section - 2
+1. Variables Exploration
+2. Dictionaries Part 1
+3. Dictionaries Part 2
+4. Contact Book Application
 
 
