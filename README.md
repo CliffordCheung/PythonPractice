@@ -24,5 +24,11 @@ Section - 2
 2. Dictionaries Part 1
 3. Dictionaries Part 2
 4. Contact Book Application
+5. Advanced Decision Making
+6. Sets Part 1
+7. Sets Part 2
+8. Students Record Manager
+9. Advanced Data Aggregation
+
 
 
